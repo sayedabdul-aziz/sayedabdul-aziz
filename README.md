@@ -1,16 +1,15 @@
-### Hi there 👋
+Hey 🙋‍♂️ , My name is Sayed Abdul-Aziz from Cairo,Egypt. I am studying CS. Full stack developer with advanced expertise. Now, I'm a Head of Programming Committee at IEEE Al-Azhar, Java instructor at DSC Al-Azhar.
 
-<!--
-**sayedabdul-aziz/sayedabdul-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=sayedabdul-aziz)
+# Github Stats
 
-Here are some ideas to get you started:
+*NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/sayedabdul-aziz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedabdul-aziz&show_icons=true&theme=gruvbox&count_private=true" alt="Loc Mai's github stats" />
+</a>
+
+<a href="https://github.com/sayedabdul-aziz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedabdul-aziz&layout=compact&theme=gruvbox" />
+</a>
+
