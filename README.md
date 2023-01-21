@@ -88,12 +88,12 @@ Things you should know -
   <div align=center>
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sayedabdul-aziz&theme=react&border=61dafb&hide_border=true" alt="sayedabdul-aziz" />
     </a>
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sayedabdul-aziz&show_icons=true&include_all_commits=true&theme=react&count_private=true&hide_border=true" alt="sayedabdul-aziz's github stats" />
+      <img align="right" width=390 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sayedabdul-aziz&show_icons=true&include_all_commits=true&theme=react&count_private=true&hide_border=true" alt="sayedabdul-aziz's github stats" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedabdul-aziz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sayedabdul-aziz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
