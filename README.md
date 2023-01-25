@@ -16,7 +16,7 @@
 <br>
 
 <h3 align="center">Hey! 👋 I'm Sayed Abdul-Aziz. 😄 </h3>
-<h4 align="center">Senior Mobile App Developer</h4>
+<h4 align="center">Mobile App Developer</h4>
 <br>
 <p align="center">
   📕 I'm a Computer Engineer & Software Developer & Software Instructor from Egypt
