@@ -21,11 +21,9 @@
 <p align="center">
   📕 I'm a Computer Engineer & Software Developer & Software Instructor from Egypt
   <br>
-  🎓 I'm currently a bachelor's student in the Computer Engineering Department at Al-Azhar University
+  🎓 Bachelor’s degree Electrical Engineering and Computer Science at Al-Azhar University
   <br>
   💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce App with Flutter
   <br>
   💬 Ask me anything about from <a href="https://github.com/sayedabdul-aziz/sayedabdul-aziz/issues" title="Issues">Here</a>
   <br>
