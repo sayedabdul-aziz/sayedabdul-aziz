@@ -7,11 +7,11 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/sayed-abd-el-aziz/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/Sayed.3bdel3ziz/" title="Facebook Profile"><img width="22" src="images/facebook.png"> Facebook</a></code>
+  <code> 
+    <a href="https://www.linkedin.com/in/sayedabdulaziz/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/Sayed3bdul3ziz/" title="Facebook Profile"><img width="22" src="images/facebook.png"> Facebook</a></code>
   <code><a href="https://stackoverflow.com/users/18532005/sayed-abdul-aziz" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/sayed_3bdel3ziz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/sayed3bdul3ziz/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 
