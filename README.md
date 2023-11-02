@@ -19,7 +19,7 @@
 <h4 align="center">Mobile App Developer</h4>
 <br>
 <p align="center">
-  📕 I'm a Computer Engineer & Software Developer & Software Instructor from Egypt
+  📕 I'm a Software Engineer & Flutter Developer and Instructor from Egypt
   <br>
   🎓 Bachelor’s degree Electrical Engineering and Computer Science at Al-Azhar University
   <br>
