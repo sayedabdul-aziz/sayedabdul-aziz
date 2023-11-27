@@ -94,9 +94,13 @@ Things you should know -
       <img width=325 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sayedabdul-aziz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayedabdul-aziz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <br><br><br><br><br><br><br><br><br>
+
+<div align=center>
+      <img  align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sayedabdul-aziz&bg_color=1c1a23&color=00d5ff&line=1dc0f7&point=ffffff&area=true&hide_border=true" />
+    </a>
+  </div>
+
 </p>
 
 
